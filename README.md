@@ -1,6 +1,5 @@
 # Username_Password_Generator
 
-Username Password Generator
 The Username Password Generator works on the Huffman Encoding Decoding technique. It is a data encoding method which is mapped during runtime. It helps in loseless conversion.
 We can perform the following features using various data- structures:
 
